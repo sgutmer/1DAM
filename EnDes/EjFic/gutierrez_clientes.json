@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "Jane Doe",
+    "telefono": null,
+    "correo": "janedoe@email.com"
+  },
+  {
+    "nombre": "Foo Jones",
+    "telefono": "556-342-452",
+    "correo": null
+  }
+]
